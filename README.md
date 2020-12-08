@@ -1,7 +1,6 @@
-### Hi There 😎
-#### Currently I'm looking for jobs in the IT industry (Developer Profile). 
+### Hi There 😎\
 ##### 👯 I’m looking to collaborate on: Open Source Projects
-##### 🌱 I’m currently learning: To build a video conferencing web app as a service which can be extended by any time of frontend by calling api.
+##### 🌱 I’m currently learning: I'm building a company website which has an active blog and forum page.
 ##### 📫 How to reach me: [Mail Me](mailto:akbatra567@gmail.com)
 ##### ⚡ Fun fact: I've started a poetry podcast. Listen on : [On Point Writer](https://anchor.fm/on-point-writer/)
 

@@ -4,6 +4,8 @@
 ##### 📫 How to reach me: [Mail Me](mailto:akbatra567@gmail.com)
 ##### ⚡ Fun fact: I've started a poetry podcast. Listen on : [On Point Writer](https://anchor.fm/on-point-writer/)
 
+[![@akbatra567's Holopin board](https://holopin.io/api/user/board?user=akbatra567)](https://holopin.io/@akbatra567)
+
 <!--
 **akbatra567/akbatra567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

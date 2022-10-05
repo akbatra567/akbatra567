@@ -1,8 +1,9 @@
-### Hi There 😎\
+### Hi There 😎
 ##### 👯 I’m looking to collaborate on: Open Source Projects
-##### 🌱 I’m currently learning: I'm building a company website which has an active blog and forum page.
+##### 🌱 I’m currently learning: Sustainability, Green Software and carbon emissions of a software
+##### 🔭 I'm currently working on starting an open source project: [Funzy Crossword Puzzle Generator](https://github.com/mksOrg-open/funzy-crossword-puzzle-generator)
 ##### 📫 How to reach me: [Mail Me](mailto:akbatra567@gmail.com)
-##### ⚡ Fun fact: I've started a poetry podcast. Listen on : [On Point Writer](https://anchor.fm/on-point-writer/)
+##### ⚡ Fun fact: I've started a podcast. Listen on : [On Point Writer](https://anchor.fm/on-point-writer/)
 
 [![@akbatra567's Holopin board](https://holopin.io/api/user/board?user=akbatra567)](https://holopin.io/@akbatra567)
 

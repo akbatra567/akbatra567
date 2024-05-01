@@ -3,8 +3,9 @@
 ##### 🌱 I’m currently learning: Sustainability, Green Software and carbon emissions of a software
 ##### 🔭 I'm currently working on starting an open source project: [Funzy Crossword Puzzle Generator](https://github.com/mksOrg-open/funzy-crossword-puzzle-generator)
 ##### 📫 How to reach me: [Mail Me](mailto:akbatra567@gmail.com)
-##### ⚡ Fun fact: I've started a podcast. Listen on : [On Point Writer](https://anchor.fm/on-point-writer/)
-
+##### 📫 Visit my website: [Ambitious Akshit](https://ambitiousakshit.com/)
+##### ⚡ Fun fact: I've started two podcasts: 
+> Listen on : [On Point Writer](https://anchor.fm/on-point-writer/) [Avo-Code-o Podcast](https://podcasters.spotify.com/pod/show/avo-code-o/episodes/Avo-Code-o-Here-e23n32b/a-a9q3uln)
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=akbatra567&show_icons=true)
 

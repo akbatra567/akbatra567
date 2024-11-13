@@ -8,7 +8,7 @@
 > Listen on : [On Point Writer](https://anchor.fm/on-point-writer/) [Avo-Code-o Podcast](https://podcasters.spotify.com/pod/show/avo-code-o/episodes/Avo-Code-o-Here-e23n32b/a-a9q3uln)
 
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=akbatra567&show_icons=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akbatra567)](https://git.io/streak-stats)
 
 ![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akbatra567&theme=blue-green)
 
